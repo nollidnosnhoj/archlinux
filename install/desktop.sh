@@ -7,7 +7,7 @@ PACKAGES=(
     waybar
     swaybg
     swayidle
-    swaylock
+    hyprlock
     xdg-desktop-portal-gnome
     gnome-keyring
     nautilus
