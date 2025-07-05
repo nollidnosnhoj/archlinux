@@ -3,6 +3,7 @@ PACKAGES=(
     ttf-dejavu-nerd
     ttf-hack-nerd
     ttf-jetbrains-mono-nerd
+    noto-fonts-cjk
     noto-fonts-emoji
     ttf-font-awesome
 )
